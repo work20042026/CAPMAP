@@ -39,7 +39,7 @@ function Home() {
         <h1 className="text-3xl font-bold tracking-tight md:text-4xl">
           Indian Climate Action Plans
         </h1>
-        <p className="mt-2 max-w-3xl text-sm text-muted-foreground md:text-base">
+        <p className="mt-5 max-w-3xl text-sm text-muted-foreground md:text-base">
           Explore India's Climate Action Plans across states, cities, towns, wards and villages.
           Click a pin to view the CAP overview, emissions baseline, climate risk assessment and sectoral strategy — all on one page.
         </p>
