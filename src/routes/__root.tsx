@@ -130,7 +130,7 @@ function SiteFooter() {
           The information present is entirely based on review of publicly available Climate Action Plan
           documents, information provided by municipalities or organizations developing the CAP documents,
           and thus does not necessarily reflect the most recent status of progress. If you detect any
-          incorrect information on this page, please {" "}
+          incorrect information on this page, please contact us at{" "}
           <a href="mailto:work20042026@gmail.com" className="underline text-primary">work20042026@gmail.com</a>{" "}
           to amend it.
         </p>
