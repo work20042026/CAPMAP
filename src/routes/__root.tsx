@@ -127,11 +127,11 @@ function SiteFooter() {
       <div className="mx-auto max-w-7xl px-6 py-6 text-xs text-muted-foreground">
         <p className="mb-2 font-semibold text-foreground">Disclaimer</p>
         <p>
-          The information present is entirely based on the review of publicly available Climate Action Plan (CAP)
+          The information present is entirely based on review of publicly available Climate Action Plan
           documents, information provided by municipalities or organizations developing the CAP documents,
           and thus does not necessarily reflect the most recent status of progress. If you detect any
-          incorrect information on this page, please {" "}
-          <a href="mailto:work20042026@gmail.com" className="underline text-primary">contact us</a>{" "}
+          incorrect information on this page, please contact us at{" "}
+          <a href="mailto:work20042026@gmail.com" className="underline text-primary">work20042026@gmail.com</a>{" "}
           to amend it.
         </p>
         <p className="mt-4">© {new Date().getFullYear()} CAPMAP India</p>
